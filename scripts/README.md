@@ -1,0 +1,1 @@
+This folder for storing old scripts.
