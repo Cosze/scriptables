@@ -13,6 +13,7 @@ then
     fi
 else
     echo "No input"
+    exit 1
 fi
 
 exit 0
