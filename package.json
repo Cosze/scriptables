@@ -1,0 +1,20 @@
+{
+  "name": "scriptables",
+  "version": "1.0.0",
+  "description": "This repo is for all the scripts I write on the Scriptable app. The most recent script will be `recent.js` to maintain easy access, whereas all old scripts will be stored in `scripts/`.",
+  "main": "recent.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cosze/scriptables.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cosze/scriptables/issues"
+  },
+  "homepage": "https://github.com/Cosze/scriptables#readme"
+}
